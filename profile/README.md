@@ -9,3 +9,7 @@
 ## 🛠️ Project Guidelines
 [Git Convention](gitConvention.md)  
 [Issue Template](issue_template.md)
+
+## 📄 Proposal Manual
+[Proposal Manual](1_Proposal_Manual.pdf)  
+[Proposal Docs Sample](Proposal_Reia_Ali_Luiz_Hossein.pdf)
