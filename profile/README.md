@@ -1,4 +1,4 @@
-# Data Mining Class
+# Data Mining Class (503 && 474)
 
 ## 👥 Team Member
 
