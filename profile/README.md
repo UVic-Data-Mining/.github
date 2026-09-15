@@ -13,3 +13,6 @@
 ## 📄 Proposal Manual
 [Proposal Manual](1_Proposal_Manual.pdf)  
 [Proposal Docs Sample](Proposal_Reia_Ali_Luiz_Hossein.pdf)
+
+## 🧾 Project Work Log
+[Project Work Sample](projectwork.md)
