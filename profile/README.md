@@ -1,6 +1,6 @@
 # Data Mining Class
 
-## Member
-- Alicia Kim
-- Jay
-- Anson
+## 👥 Team Member
+
+| [Alicia Kim](https://github.com/alicia0928) | Jay | Anson |
+|------------------------------------------|----------------------------------------|------------------------------------------|
