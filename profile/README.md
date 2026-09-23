@@ -31,6 +31,10 @@ The project aims to:
 |------------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
 | Graduate Student | Undergraduate student | Undergraduate student | Undergraduate student |
 
+## 📚 Research Notes
+Our ongoing research notes, literature findings, and supporting materials can be found in the
+[Research Note repository](https://github.com/UVic-Data-Mining/Research-Note).
+
 ## 🛠️ Project Guidelines
 [Git Convention](gitConvention.md)  
 [Issue Template](issue_template.md)
