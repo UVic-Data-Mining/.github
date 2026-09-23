@@ -1,10 +1,35 @@
-# Data Mining Class (503 && 474)
+# Understanding URL Characteristics Behind AI-Generated Phishing Evasion
+
+## Overview
+
+Generative AI introduces new challenges for phishing detection systems by
+enabling the creation of phishing-like URLs that may differ from examples
+seen during model development.
+
+This project investigates which URL characteristics are associated with
+AI-generated phishing-like examples not being flagged by an existing
+phishing classifier. Our goal is to better understand the behaviour of a fixed classifier by identifying recurring characteristics associated with its detected and non-detected examples.
+
+The project is being developed as part of **CSC 503 / SENG 747: Data Mining**
+at the **University of Victoria**.
+
+## Research Question
+
+**Which URL characteristics are associated with non-detection of
+AI-generated phishing-like URLs by an existing phishing classifier?**
+
+## Project Goals
+
+The project aims to:
+
+- Evaluate a fixed phishing classifier on AI-generated phishing-like URLs.
+- Identify URL characteristics associated with flagged and non-flagged examples.
 
 ## 👥 Team Member
 
-| [Alicia Kim](https://github.com/alicia0928) | Jay | Anson |
-|------------------------------------------|----------------------------------------|------------------------------------------|
-| Graduate Student | Undergraduate student | Undergraduate student |
+| [Alicia Kim](https://github.com/alicia0928) | [Jay Cheng](https://github.com/jaycheng17) | [Anson Koh](https://github.com/Aelderic) | [Owen Pritchard](https://github.com/pritchh)
+|------------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
+| Graduate Student | Undergraduate student | Undergraduate student | Undergraduate student |
 
 ## 🛠️ Project Guidelines
 [Git Convention](gitConvention.md)  
